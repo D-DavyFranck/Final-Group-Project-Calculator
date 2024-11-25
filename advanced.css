@@ -155,8 +155,9 @@ h1 {
 }
 
 .option:hover {
-    background-color: #f8f9fa;
+    background-color: #a3b0bd;
     border-color: #764ba2;
+    cursor: pointer;
 }
 
 .option.selected {
@@ -207,4 +208,5 @@ button:disabled {
 select{
   border-radius: 50px;
   border: none;
+  cursor: pointer;;
 }
